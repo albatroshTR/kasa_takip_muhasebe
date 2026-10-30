@@ -1,0 +1,12 @@
+Kasa Takip
+© 2026 Tahir Ekinalan · tahirekinalan.com
+
+Bu program açık kaynaklıdır ve MIT Lisansı ile dağıtılır (tam metin: LICENSE dosyası). Programı kullanabilir,
+kopyalayabilir, değiştirebilir ve dağıtabilirsiniz; telif ve lisans notunu korumanız yeterlidir. Yazılım "olduğu gibi",
+herhangi bir garanti verilmeden sunulur.
+
+Programda kullanılan üçüncü taraf bileşenler kendi lisanslarına tabidir:
+  - Qt / PySide6        : GNU LGPL v3
+  - ReportLab           : BSD lisansı
+  - openpyxl            : MIT lisansı
+  - Liberation Serif    : SIL Open Font License 1.1 (assets/fonts/LICENSE-LiberationFonts.txt)

@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+Kurulum/
+*.log
+selftest_sonuc.txt
+.vscode/
+*.kdb
