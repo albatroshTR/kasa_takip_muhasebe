@@ -379,3 +379,10 @@ Hata bildirimi ve öneriler için [Issues](https://github.com/albatroshTR/kasa_t
 pull request açabilirsiniz. Göndermeden önce `python -m tests.test_core` ve ilgili diğer testleri çalıştırın
 (bkz. [12. Geliştirici notları](#12-geliştirici-notları)). Gerçek müşteri ya da personel verisi, kurtarma anahtarı
 veya veritabanı dosyası (`.kdb`) paylaşmayın.
+
+## Geliştirme hakkında
+
+Bu proje yapay zekâ destekli geliştirildi ("vibe coding"; Claude Code ile). Yazılımcı olmayan bir kullanıcının
+ihtiyacından doğdu ve 680'den fazla otomatik kontrolle doğrulanıyor. Yine de finansal veri tuttuğu için gerçek
+kullanımdan önce kendi verinizle deneyin ve düzenli yedek alın. Kod inceleme, hata bildirimi ve katkılar
+memnuniyetle karşılanır.
